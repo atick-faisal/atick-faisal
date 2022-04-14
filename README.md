@@ -1,3 +1,7 @@
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
 <div align="center">
   <a href="#">
     <img src="https://img.shields.io/badge/Kotlin-673AB7?style=for-the-badge&logo=kotlin&logoColor=white"/>
@@ -47,6 +51,14 @@
         <img width="48%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=atick-faisal&hide_border=true"/>
     </a>
 </div>
+                                                                                                                                      
+<div align="center">
+    <h3>Contacts</h3>
+    <a href="https://www.facebook.com/atick.faisal.52" class="fa fa-facebook"></a>
+    <a href="https://twitter.com/atick_ai" class="fa fa-twitter"></a>
+    <a href="mailto:atickfaisal@gmail.com" class="fa fa-google"></a>
+    <a href="https://www.linkedin.com/in/atick-faisal-62ab4219a/" class="fa fa-linkedin"></a>
+</div>                                                                                                                                    
 
 <!--
 **atick-faisal/atick-faisal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
