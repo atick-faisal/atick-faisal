@@ -13,10 +13,10 @@
     <img src="https://img.shields.io/badge/Embedded-3F51B5?style=for-the-badge&logo=c"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Java-F57C00?style=for-the-badge&logo=java"/>
+    <img src="https://img.shields.io/badge/Java-00796B?style=for-the-badge&logo=java"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Javascript-FDD835?style=for-the-badge&logo=javascript&logoColor=white""/>
+    <img src="https://img.shields.io/badge/Javascript-424242?style=for-the-badge&logo=javascript"/>
   </a>                                                                                                            
   <br>                                                                                                            
   <a href="#">
