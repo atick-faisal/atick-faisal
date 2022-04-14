@@ -54,7 +54,9 @@
                                                                                                                                       
 <div align="center">
     <h3>Contacts</h3>
-    <a href="https://www.facebook.com/atick.faisal.52" class="fa fa-facebook"></a>
+    <a href="https://www.facebook.com/atick.faisal.52">
+      <img src="facebook.png" width="50"/>
+    </a>
     <a href="https://twitter.com/atick_ai" class="fa fa-twitter"></a>
     <a href="mailto:atickfaisal@gmail.com" class="fa fa-google"></a>
     <a href="https://www.linkedin.com/in/atick-faisal-62ab4219a/" class="fa fa-linkedin"></a>
