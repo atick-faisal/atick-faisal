@@ -43,6 +43,8 @@
   </a>                                                                                                 
 </div>
 
+ <br>                                                                                            
+                                                                                             
 <div>
     <a href="https://github-readme-stats.vercel.app">
         <img width="48%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=atick-faisal&custom_title=GitHub+Stats&hide_border=true&show_icons=true"/>
@@ -52,14 +54,27 @@
     </a>
 </div>
                                                                                                                                       
+<br>                                                                                                                                      
+                                                                                                                                      
 <div align="center">
-    <h3>Contacts</h3>
-    <a href="https://www.facebook.com/atick.faisal.52">
-      <img src="facebook.png" width="50"/>
+    <a href="https://atick.dev">
+      <img src="web.png" width="40"/>
     </a>
-    <a href="https://twitter.com/atick_ai" class="fa fa-twitter"></a>
-    <a href="mailto:atickfaisal@gmail.com" class="fa fa-google"></a>
-    <a href="https://www.linkedin.com/in/atick-faisal-62ab4219a/" class="fa fa-linkedin"></a>
+    <a href="https://www.facebook.com/atick.faisal.52">
+      <img src="facebook.png" width="40"/>                                    
+    </a>
+    <a href="mailto:atickfaisal@gmail.com">
+       <img src="email.png" width="40"/>                                 
+    </a>
+    <a href="https://www.linkedin.com/in/atick-faisal/">
+       <img src="linkedin.png" width="40"/> 
+    </a>
+    <a href="https://scholar.google.com/citations?hl=en&user=ZiPKjAgAAAAJ/">
+       <img src="scholar.png" width="40"/> 
+    </a>   
+    <a href="https://www.researchgate.net/profile/Md-Faisal-9/">
+       <img src="rgate.png" width="40"/> 
+    </a>                                      
 </div>                                                                                                                                    
 
 <!--
