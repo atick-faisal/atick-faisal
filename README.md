@@ -13,10 +13,10 @@
     <img src="https://img.shields.io/badge/Embedded-3F51B5?style=for-the-badge&logo=c"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Java-00796B?style=for-the-badge&logo=java"/>
+    <img src="https://img.shields.io/badge/Java-00796B?style=for-the-badge&logo=openjdk"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Javascript-424242?style=for-the-badge&logo=javascript"/>
+    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   </a>                                                                                                            
   <br>                                                                                                            
   <a href="#">
@@ -33,7 +33,7 @@
   </a>
   <br>
   <a href="#">
-    <img src="https://img.shields.io/badge/Linux-FFC107?style=for-the-badge&logo=linux&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Linux-EEEEEE?style=for-the-badge&logo=linux&logoColor=black"/>
   </a>                                                                                                    
   <a href="#">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
