@@ -33,7 +33,7 @@
   </a>
   <br>
   <a href="#">
-    <img src="https://img.shields.io/badge/Linux-EEEEEE?style=for-the-badge&logo=linux&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Linux-F7DF1E?style=for-the-badge&logo=linux&logoColor=black"/>
   </a>                                                                                                    
   <a href="#">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
