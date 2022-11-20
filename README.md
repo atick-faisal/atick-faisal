@@ -2,6 +2,23 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
+<h1 align="center">Hi! I'm Atick</h1>
+<p align="center">I'm a researcher and a developer. Find out more about me on my <a href="https://atick.dev">website</a>.</p>
+<p  align="center">
+<img src="divider.png" width="400" />
+</p>
+
+<br>
+
+<p align="center">If you like my work ... </p>
+<div align="center">
+     <a href="https://www.buymeacoffee.com/atickfaisal" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+ </div>
+ 
+<br>
+
+<!--
+
 <div align="center">
   <a href="#">
     <img src="https://img.shields.io/badge/Kotlin-673AB7?style=for-the-badge&logo=kotlin&logoColor=white"/>
@@ -43,18 +60,23 @@
   </a>                                                                                                 
 </div>
 
- <br>                                                                                            
+-->
+
                                                                                              
-<div>
+<div align="center">
+<!--
     <a href="https://github-readme-stats.vercel.app">
-        <img width="48%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=atick-faisal&custom_title=GitHub+Stats&hide_border=true&show_icons=true&theme=material-palenight"/>
+        <img width="48%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=atick-faisal&custom_title=GitHub+Stats&hide_border=true&show_icons=true&theme=transparent"/>
     </a>
+-->
     <a href="https://github-readme-streak-stats.herokuapp.com">
-        <img width="48%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=atick-faisal&hide_border=true&theme=material-palenight"/>
+        <img width="48%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=atick-faisal&hide_border=true&theme=transparent"/>
     </a>
 </div>
                                                                                                                                       
-<br>                                                                                                                                      
+<br>  
+
+<p align="center"><img src="footer.svg" /></p>
                                                                                                                                       
 <div align="center">
     <a href="https://atick.dev">
