@@ -70,7 +70,7 @@
     </a>
 -->
     <a href="https://github-readme-streak-stats.herokuapp.com">
-        <img width="48%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=atick-faisal&hide_border=true&theme=transparent"/>
+        <img width="48%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=atick-faisal&hide_border=true&theme=onedark_duo"/>
     </a>
 </div>
                                                                                                                                       
