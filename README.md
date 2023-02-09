@@ -14,7 +14,7 @@
 <br>
 <div align="center">
 <a href="https://git.io/streak-stats">
-<img width="48%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=atick-faisal&theme=blueberry_duo&border_radius=16"/>
+<img width="48%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=atick-faisal&theme=Javascript&border_radius=16&hide_border=true"/>
 </a>
 <br>  
 <p align="center"><img src="footer.svg" /></p>
